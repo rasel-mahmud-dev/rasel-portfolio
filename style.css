@@ -51,7 +51,7 @@ p{
 
 .dream-section{
     margin-top: 100px;
-    background-image: url("images//dream-bg.png");
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
     background-position-y: 200px;
@@ -59,7 +59,7 @@ p{
 }
 
 .exprience-area{
-    background-image: url(images/exp-bg.png);
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
